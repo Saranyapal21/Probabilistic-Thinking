@@ -1,1 +1,1 @@
-# Probability-Thinking
+# Probabilistic-Thinking
